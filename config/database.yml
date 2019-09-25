@@ -1,7 +1,7 @@
 development:
   adapter: postgresql
   encoding: unicode
-  database: demo_test_development
+  database: demo_test_development2
   pool: 5
   username: peyton (your computer’s user name)
   password:
@@ -10,7 +10,7 @@ development:
 test:
   adapter: postgresql
   encoding: unicode
-  database: demo_test_test
+  database: demo_test_test2
   pool: 5
   username: peyton (your computer’s username)  password:
   timeout: 5000
